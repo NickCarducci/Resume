@@ -316,7 +316,7 @@ h2 {
     flex-direction: column;
     top: 150px;
     left: 45%;
-    height: calc(100vh - 370px);
+    height: calc(100vh - 150px);
     overflow-x: hidden;
     overflow-y: auto;
     transform: translatex(0%);
@@ -331,7 +331,7 @@ h2 {
     top: 150px;
     width: 29vw;
     left: 45%;
-    height: calc(100vh - 370px);
+    height: calc(100vh - 150px);
     overflow-x: hidden;
     overflow-y: auto;
     transform: translatex(0%);

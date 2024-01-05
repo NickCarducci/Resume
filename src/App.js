@@ -100,7 +100,6 @@ export default class App extends React.Component {
                 Interaction-Designer, Casting & Copy,
               </span>
               <br />
-              <span>26 Battin Road, </span>
               <span>Fair Haven, NJ 07704</span>
               <br />
               <span>(732) 233-1085</span>
@@ -181,6 +180,7 @@ export default class App extends React.Component {
                   url="https://github.com/nickcarducci"
                 />
               </div>
+              studio name: pineapple-mint.com
             </div>
             <br />
             <div

@@ -13,15 +13,14 @@ class Products extends React.Component {
         style={{
           borderTop: "1px solid black",
           width: "100%",
-          position: "absolute",
-          height: "2000px"
+          position: "absolute"
         }}
       >
         <a
           href="https://micro-theory.com"
           style={{
             fontSize: "30px",
-            display: "flex",
+            display: "none",
             position: "relative",
             alignItems: "center",
             justifyContent: "center",
@@ -37,7 +36,7 @@ class Products extends React.Component {
           href="https://pineapple-mint.com"
           style={{
             fontSize: "30px",
-            display: "flex",
+            display: "none",
             position: "relative",
             alignItems: "center",
             justifyContent: "center",
@@ -51,6 +50,7 @@ class Products extends React.Component {
         </a>
         <div
           style={{
+            display: "none",
             marginTop: "20px",
             borderTop: "1px solid black",
             width: "100%",
@@ -96,6 +96,7 @@ class Products extends React.Component {
         </div>
         <div
           style={{
+            display: "none",
             marginTop: "20px",
             borderTop: "1px solid black",
             width: "100%",
@@ -141,6 +142,7 @@ class Products extends React.Component {
         </div>
         <div
           style={{
+            display: "none",
             marginTop: "20px",
             borderTop: "1px solid black",
             width: "100%",
@@ -186,6 +188,7 @@ class Products extends React.Component {
         </div>
         <div
           style={{
+            display: "none",
             marginTop: "20px",
             borderTop: "1px solid black",
             width: "100%",
@@ -237,6 +240,7 @@ class Products extends React.Component {
         </div>
         <div
           style={{
+            display: "none",
             marginTop: "20px",
             borderTop: "1px solid black",
             width: "100%",
@@ -414,3 +418,4 @@ class Products extends React.Component {
   }
 }
 export default Products;
+
